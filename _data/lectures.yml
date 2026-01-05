@@ -401,8 +401,7 @@
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
     - Rahul et al. <a href="https://arxiv.org/abs/2005.05951" target="_blank">MOReL - Model-Based Offline Reinforcement Learning</a>
-  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out </span>
-
+  logistics: 
 
 - date: W 03/18
   lecturer:
@@ -441,7 +440,7 @@
   readings:
     - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-  logistics:
+  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out </span>
 
 - date: W 03/25
   lecturer:
@@ -480,8 +479,7 @@
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
 
-  logistics: <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out </span>
-
+  logistics: 
 
 - date: W 04/01
   lecturer: 
@@ -523,7 +521,7 @@
     - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
     - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
     
-  logistics:  
+  logistics:  <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out </span>
   
   
 - date: W 04/08
