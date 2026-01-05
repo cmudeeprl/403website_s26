@@ -46,14 +46,14 @@ We strongly encourage all students to form reading groups for joint study of the
 
 ### Grading
 
-The class requirements include *7 homework assignments* (35% of the grade), *1 midterm* (35% of the grade), *one project* (30% of the grade), and *scribing* (5% bonus). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The class requirements include *6 or 7 homework assignments* (40% of the grade), *1 midterm* (30% of the grade), and *one final* (30% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 The entirety of your course grade will be based on the performance in the homework assignments, the midterm, and the project.
 
 ***
 
 ### Homework Assignments
 
-There will be 7 homework assignments over the course of the semester. For each, you may work in groups of two or three students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
+There will be 6 or 7 homework assignments over the course of the semester. For each, you may work in groups of two or three students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
 
 These assignments may contain material that has been covered by published papers and webpages. We expect students to solve the problems themselves rather than search for answers.
 Students are required to **typeset written homework solutions using $\(\LaTeX\)$ and the provided template**, and submit as PDF. All code, including auxiliary scripts used for testing should be submitted with a README file to explain/document them.
@@ -67,15 +67,11 @@ The midterm will either be open book OR closed book. We will provide more inform
 
 ***
 
-### Project
+### Final
 
-There will be one project, due at the end of the term, with sufficient milestones along the way. Students will work in teams of three and can choose between the default project or proposing their own projects. The project must be relevant to and incorporate paradigms and algorithms of reinforcement learning.
+Final will be in-person and taken **during Finals Week** with pencil and paper. We will provide more information closer to the date of the final. Expect to use up to the full 3 hours for the final.
+The final will either be open book OR closed book. We will provide more information closer to the date. In the case of an open book exam, you may only access printed notes and papers.
 
-***
-
-### Scribing
-
-TBA
 
 ***
 
