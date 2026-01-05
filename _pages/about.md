@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2025 • Carnegie Mellon University
+description: 10-403 • Spring 2026 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -37,12 +37,12 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 9:30 AM - 10:50 AM
-- **Recitations:** Friday 9:30 AM - 10:50 AM
-- **Lecture/Recitation Location:** TEP 1403
+- **Lectures:** Monday, Wednesday 12:30 PM - 1:50 PM
+- **Recitations:** Friday 12:30 PM - 1:50 PM
+- **Lecture/Recitation Location:** CIC 1203
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
-- **Discussion:** [Piazza](https://piazza.com/class/m5v6dm0n26o3ai){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/courses/950908){:target="\_blank"}
+- **Discussion:** [Piazza](https://piazza.com/cmu/spring2026/10403){:target="\_blank"}
+- **HW submission:** [Gradescope](https://www.gradescope.com/courses/1211275){:target="\_blank"}
 - **Contact:** For external enquiries, personal matters or in emergencies, you can email the Course EA: Joshmin Ray.
 
 ***
