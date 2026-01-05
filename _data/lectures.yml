@@ -1,9 +1,9 @@
-- date: M 08/25
+- date: M 01/12
   lecturer: 
   title: >
     <strong>Welcome and Introduction to the Class</strong>
-  slides: https://drive.google.com/file/d/17oWZGJJQOoeb8i1-S3H-Qz-iw2ZWJB1i/view?usp=drive_link
-  slides2: https://www.dropbox.com/scl/fi/03ant3g0t8kqeqaz5lo5w/lecture1_introF25.pdf?rlkey=6lu21m7yaz63e8r29ecpw1mcp&dl=0
+  slides: #https://drive.google.com/file/d/17oWZGJJQOoeb8i1-S3H-Qz-iw2ZWJB1i/view?usp=drive_link
+  slides2: #https://www.dropbox.com/scl/fi/03ant3g0t8kqeqaz5lo5w/lecture1_introF25.pdf?rlkey=6lu21m7yaz63e8r29ecpw1mcp&dl=0
   video:
   notes:
   readings:
@@ -12,11 +12,11 @@
     - (optional) Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
-- date: W 08/27
+- date: W 01/14
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement Learning</strong>
-  slides: https://drive.google.com/file/d/1B-zhUfhpnZAnHye92VK8vKhaBHGIs2by/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1B-zhUfhpnZAnHye92VK8vKhaBHGIs2by/view?usp=sharing
   slides2:
   video:
   notes:
@@ -26,13 +26,13 @@
     #- (optional) Aleksandrs Slivkins <a href="https://arxiv.org/pdf/1904.07272">Introduction to Multi-Armed Bandits</a>
   logistics:
 
-- date: F 08/29
+- date: F 01/16
   lecturer:
   title:
   recitation: >
     <strong>Neural Nets, PyTorch, Gymnasium </strong>
-  slides: https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
-  notes: https://drive.google.com/file/d/1BX9zooXG8Z08HBOviS8mMzG7gFlIFvT_/view?usp=sharing
+  slides: #https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
+  notes: #https://drive.google.com/file/d/1BX9zooXG8Z08HBOviS8mMzG7gFlIFvT_/view?usp=sharing
   video:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
@@ -42,18 +42,18 @@
 
 
 
-- date: M 09/01
+- date: M 01/19
   lecturer: 
   quiz: >
-    <strong>No Class, Labor Day</strong>
+    <strong>No Class, MLK Day</strong>
   logistics:
 
 
-- date: W 09/03
+- date: W 01/21
   lecturer: 
   title: >
     <strong>Policy Gradient Methods </strong>
-  slides: https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
   video:
   notes:
   readings:
@@ -62,12 +62,12 @@
   logistics: <span class="event">HW1 out </span> <br>
 
 
-- date: F 09/05
+- date: F 01/23
   lecturer:
   title:
   recitation: >
     <strong>MDPs, Policy Gradients, & HW1 </strong>
-  slides: https://drive.google.com/file/d/1uP_ZkxWA3izMrfB9kTAQICeslAr4Qpoa/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1uP_ZkxWA3izMrfB9kTAQICeslAr4Qpoa/view?usp=sharing
   slides2:
   notes: 
   video:
@@ -75,12 +75,12 @@
   logistics:
 
 
-- date: M 09/08
+- date: M 01/26
   lecturer: 
   title: >
     <strong>Actor-Critic Methods (cont.) Evolutionary Methods for Policy Search</strong>
-  slides: https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
-  slides2: https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
+  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides2: #https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
   video:
   notes:
   readings:
@@ -90,12 +90,12 @@
   logistics: 
 
 
-- date: W 09/10
+- date: W 01/28
   lecturer: 
   title: >
     <strong>Value-based Methods</strong>
-  slides: https://drive.google.com/file/d/1IDYQkudBASIt6pihxMtg_PVHQuH_KgV3/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1uqiF066FOdmy9ZBIogGnzYrV0Fj9PAon/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1IDYQkudBASIt6pihxMtg_PVHQuH_KgV3/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1uqiF066FOdmy9ZBIogGnzYrV0Fj9PAon/view?usp=sharing
   video:
   notes:
   readings:
@@ -109,12 +109,12 @@
 
 
 
-- date: F 09/12
+- date: F 01/30
   lecturer:
   title:
   recitation: >
     <strong> Value-Based Methods and Actor-Critic Methods </strong>
-  slides: https://docs.google.com/presentation/d/1JLpRyM61YEP2XNwbdb1YL8j33wWdCgjpEHxOuLIRDIs/edit?usp=sharing
+  slides: #https://docs.google.com/presentation/d/1JLpRyM61YEP2XNwbdb1YL8j33wWdCgjpEHxOuLIRDIs/edit?usp=sharing
   slides2:
   notes: 
   video:
@@ -123,12 +123,12 @@
 
 
 
-- date: M 09/15
+- date: M 02/02
   lecturer: 
   title: >
     <strong>Value based methods (Cont.)</strong>
-  slides: https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1urLD6LkJVIGkgvSbBhURRTffsHo5V19n/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1urLD6LkJVIGkgvSbBhURRTffsHo5V19n/view?usp=sharing
   video:
   notes:
   readings:
@@ -142,12 +142,12 @@
 
 
 
-- date: W 09/17
+- date: W 02/04
   lecturer:
   title: >
     <strong> Advanced Policy Gradient Methods </strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
   video:
   notes:
   readings:
@@ -158,13 +158,13 @@
   logistics:
 
 
-- date: F 09/19
+- date: F 02/06
   lecturer:
   title:
   recitation: >
      <strong> Lecture 7b Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1usk2oT67O7rqRze0PVZX-Gmko3EjynCE/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1usk2oT67O7rqRze0PVZX-Gmko3EjynCE/view?usp=sharing
   notes: 
   video:
   readings:
@@ -173,12 +173,12 @@
     - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
   logistics: <span class="deadline">HW2 Due</span>,  <br> <span>Video Recitation HW3 </span>
 
-- date: M 09/22
+- date: M 02/09
   lecturer: 
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
@@ -187,37 +187,37 @@
   logistics: <span class="event">HW3 Out </span>
 
 
-- date: W 09/24
+- date: W 02/11
   lecturer: 
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.) MaxEntropy RL</strong>
-  slides: https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
-  slides3: https://drive.google.com/file/d/11OwKFgE1ukdyxj7gVpGtmL6UhsUdsJmV/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
+  slides3: #https://drive.google.com/file/d/11OwKFgE1ukdyxj7gVpGtmL6UhsUdsJmV/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1812.05905"> Soft Actor-Critic Algorithms and Applications </a> 
   video:
   logistics:
 
-- date: F 09/26
+- date: F 02/13
   lecturer:
   title:
   recitation: >
     <strong> Midterm Review and HW4 </strong>
-  slides: https://docs.google.com/presentation/d/12l8x0BjA6K-f8PpNpBCV3w9EHw83bLWeAMj2Uoe-T5Y/edit?usp=sharing
-  slides2: https://docs.google.com/presentation/d/1Sntle98eYsbhJ3-c-kCMa29_U4ZA1p6ysd1VIlrzRe0/edit?usp=sharing
-  video: https://drive.google.com/file/d/11OzlDPWc_0adfSX9VEyDw23J8Zs7pYKH/view?usp=sharing
+  slides: #https://docs.google.com/presentation/d/12l8x0BjA6K-f8PpNpBCV3w9EHw83bLWeAMj2Uoe-T5Y/edit?usp=sharing
+  slides2: #https://docs.google.com/presentation/d/1Sntle98eYsbhJ3-c-kCMa29_U4ZA1p6ysd1VIlrzRe0/edit?usp=sharing
+  video: #https://drive.google.com/file/d/11OzlDPWc_0adfSX9VEyDw23J8Zs7pYKH/view?usp=sharing
   notes:
   readings:
   logistics:
   
 
 
-- date: M 09/29
+- date: M 02/16
   lecturer: 
   title: >
     <strong>Imitation Learning</strong>
-  slides: https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
+  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
   video:
   notes:
   readings:
@@ -230,17 +230,17 @@
   logistics:
 
 
-- date: T 09/30 
-  lecturer:
-  quiz: >
-    <strong> </strong>
-  logistics: <span class="event">Project Description Out (tentative)</span> <br>
+# - date: T 09/30 
+#   lecturer:
+#   quiz: >
+#     <strong> </strong>
+#   logistics: <span class="event">Project Description Out (tentative)</span> <br>
 
-- date: W 10/01
+- date: W 02/18
   lecturer: 
   title: >
      <strong>Imitation Learning(Cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
+  slides: #https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
   slides2:
   video:
   readings:
@@ -251,7 +251,7 @@
   logistics: <span class="deadline">HW4 Out </span> <br>
 
 
-- date: F 10/03
+- date: F 02/20
   lecturer:
   title:
   recitation:
@@ -264,11 +264,11 @@
   logistics: 
 
 
-- date: M 10/06
+- date: M 02/23
   lecturer: 
   title: >
     <strong>Model-based Methods</strong>
-  slides:    https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
+  slides:    #https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
   video:
   readings:
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
@@ -279,11 +279,11 @@
   logistics: 
 
 
-- date: W 10/08
+- date: W 02/25
   lecturer: 
   title: >
     <strong>Model-based Methods(Cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
+  slides: #https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
   video:
   readings:
     - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
@@ -295,63 +295,63 @@
   logistics:  <span class="event">HW3 Due </span>
 
 
-- date: F 10/10
-  lecturer:
-  title: >
-    <strong>Model-based Methods(Cont.), Learning and Tree-Search Planning</strong>
-  recitation:
-  slides: https://www.dropbox.com/scl/fi/wdfhqmcyxecqobwn2321q/MBRL_TreeSearch_F25.pdf?rlkey=celzs23k4fpx64u5jphra17ym&dl=0
-  video:
-  notes:
-  readings:
-    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
-    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
-    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-  logistics: 
+# - date: F 02/27
+#   lecturer:
+#   title: >
+#     <strong>Model-based Methods(Cont.), Learning and Tree-Search Planning</strong>
+#   recitation:
+#   slides: https://www.dropbox.com/scl/fi/wdfhqmcyxecqobwn2321q/MBRL_TreeSearch_F25.pdf?rlkey=celzs23k4fpx64u5jphra17ym&dl=0
+#   video:
+#   notes:
+#   readings:
+#     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+#     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+#     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+#   logistics: 
 
-- date: F 10/10
+- date: F 02/27
   lecturer:
   title:
   recitation: >
     <strong> IL Diffusion Policies and HW5 (Video)</strong>
-  slides: https://docs.google.com/presentation/d/11QEzc7FrLxPwz_dvYk_AhYb5pZDt3ufl/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
-  video: https://drive.google.com/file/d/11PfJP0r8TRcSh6Jygm931v4RQ0Rnvvkc/view?usp=sharing
+  slides: #https://docs.google.com/presentation/d/11QEzc7FrLxPwz_dvYk_AhYb5pZDt3ufl/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
+  video: #https://drive.google.com/file/d/11PfJP0r8TRcSh6Jygm931v4RQ0Rnvvkc/view?usp=sharing
   notes:
   readings:
   logistics:
 
-- date: S 10/12
-  lecturer:
-  quiz: >
-    <strong> </strong>
-  logistics: <span class="deadline">HW4 Due</span>, <span class="event">HW5 Out </span>
+# - date: S 10/12
+#   lecturer:
+#   quiz: >
+#     <strong> </strong>
+#   logistics: <span class="deadline">HW4 Due</span>, <span class="event">HW5 Out </span>
 
-- date: M 10/13
+- date: M 03/02
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:  
 
 
-- date: W 10/15
+- date: W 03/04
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:
 
 
-- date: F 10/17
+- date: F 03/06
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:
 
 
-- date: M 10/20
+- date: M 03/09
   lecturer: 
   title: >
     <strong>Offline RL</strong>
-  slides: https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
+  slides: #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
   video:
   notes:
@@ -366,11 +366,11 @@
  
 
 
-- date: W 10/22
+- date: W 03/11
   lecturer: 
   title: >
     <strong>Offline RL (Cont.)</strong>
-  slides: https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
+  slides: #https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
   video:
   notes:
   readings:
@@ -383,7 +383,7 @@
 
 
 
-- date: F 10/24
+- date: F 03/13
   lecturer:
   title:
   recitation: >
@@ -395,12 +395,12 @@
   logistics: <span class="deadline">Project Team Formation and Project Proposal Due (tentative)</span> <br>
 
 
-- date: M 10/27
+- date: M 03/16
   lecturer: 
   title: >
     <strong>Model-based Methods for offline RL</strong>
-  slides: https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
-  slides2: https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+  slides: #https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
+  slides2: #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
   video:
   notes:
   readings:
@@ -411,11 +411,11 @@
   logistics: <span class="deadline">HW5 Due</span> <br>
 
 
-- date: W 10/29
+- date: W 03/18
   lecturer:
   title: >
     <strong>Guided Diffusion</strong>
-  slides: https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+  slides: #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
   video:
   notes:
   readings:
@@ -424,23 +424,23 @@
     
   logistics:  <span class="event">HW6 Out</span> <br>
 
-- date: F 10/31
+- date: F 03/20
   lecturer:
   title:
   recitation: >
     <strong> Offline RL and HW6 </strong>
-  slides: https://docs.google.com/presentation/d/1h-jJLcP6wBGf1eJ__S7saT4EqW_ZFQnrDCu93t15g0E/edit?usp=sharing
+  slides: #https://docs.google.com/presentation/d/1h-jJLcP6wBGf1eJ__S7saT4EqW_ZFQnrDCu93t15g0E/edit?usp=sharing
   video:
   notes:
   readings:
   logistics:
 
 
-- date: M 11/03
+- date: M 03/23
   lecturer: 
   title: >
     <strong>Exploration </strong>
-  slides: https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
+  slides: #https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
   slides2:
   video:
   notes:
@@ -449,11 +449,11 @@
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
   logistics:
 
-- date: W 11/05
+- date: W 03/25
   lecturer:
   title: >
     <strong>Sim2Real Learning</strong>
-  slides: https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
   readings:
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
@@ -461,23 +461,23 @@
   logistics:
    
 
-- date: F 11/07
+- date: F 03/27
   lecturer:
   title:
   recitation: >
     <strong> Exploration </strong>
-  slides: https://docs.google.com/presentation/d/1yAiku6ltFltVSNCve7i3YfCP_dl3aCkfeFiGan_8g2U/edit?usp=sharing
+  slides: #https://docs.google.com/presentation/d/1yAiku6ltFltVSNCve7i3YfCP_dl3aCkfeFiGan_8g2U/edit?usp=sharing
   video:
   notes:
   readings:
     
   logistics:
 
-- date: M 11/10
+- date: M 03/30
   lecturer: 
   title: >
     <strong>Sim2Real Learning (Cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
   slides2: 
   video:
   notes:
@@ -489,12 +489,12 @@
   logistics:
 
 
-- date: W 11/12
+- date: W 04/01
   lecturer: 
   title: >
     <strong>RL with Foundation Models</strong>
   quiz: 
-  slides: https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
   video:
   notes:
   readings:
@@ -506,7 +506,7 @@
 
 
 
-- date: F 11/14
+- date: F 04/03
   lecturer:
   title:
   recitation: >
@@ -518,11 +518,11 @@
   logistics: <span class="deadline">HW6 Due</span> <br>
 
 
-- date: M 11/17
+- date: M 04/06
   lecturer: 
   title: >
     <strong>RL with Foundation Models (Cont.)</strong>
-  slides: https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
   notes:
   readings:
     - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
@@ -532,32 +532,38 @@
   logistics:  
   
   
-- date: W 11/19
+- date: W 04/08
   title: >
     <strong>Foudation Models for RL</strong>
-  slides: https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
   video:
   notes:
   readings:
   logistics: <span class="deadline"> Project Midway Report Due </span> <br>
 
-- date: F 11/21
+- date: F 04/10
+  lecturer:
+  quiz: >
+    <strong> Spring Carnival - No Recitation </strong>
+  logistics:
+
+- date: M 04/13
   lecturer:
   title:
   recitation: >
     <strong> RL with Foundation Models </strong>
-  slides: https://docs.google.com/presentation/d/1W4b0PnRHpocI9sKcTW_6UN5_Z4puujRne9JxRakWgxE/edit?usp=sharing
+  slides: #https://docs.google.com/presentation/d/1W4b0PnRHpocI9sKcTW_6UN5_Z4puujRne9JxRakWgxE/edit?usp=sharing
   video:
   notes:
   readings:
   logistics: 
 
-- date: M 11/24
+- date: W 04/15
   lecturer:
   title: > 
     <strong>Generative Models for RL </strong>
   recitation: 
-  slides: https://www.dropbox.com/scl/fi/v4baj87sv5tuoofa1q8gm/rldiffusionF25.pdf?rlkey=f4j1zyqvj81r5oevx0s3997x9&dl=0
+  slides: #https://www.dropbox.com/scl/fi/v4baj87sv5tuoofa1q8gm/rldiffusionF25.pdf?rlkey=f4j1zyqvj81r5oevx0s3997x9&dl=0
   slides2: 
   video:
   notes:
@@ -567,24 +573,24 @@
   logistics: 
   
 
-- date: W 11/26
+- date: F 04/17
   lecturer:
-  quiz: >
-    <strong>Thanksgiving Break - No Classes</strong>
+  title:
+  recitation: >
+    <strong> TBD </strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics:
 
-- date: F 11/28
-  lecturer:
-  quiz: >
-    <strong> Thanksgiving Break - No Recitation </strong>
-  logistics:
 
   
-- date: M 12/01
+- date: M 04/20
   lecturer:
   title: >
     <strong>Goal-Driven Reasoning for Multimodal AI Agents</strong>
-  slides: https://drive.google.com/file/d/15-5H22Lb25ReF3EJA7UObPD3c6Dzr83R/view?usp=sharing
+  slides: #https://drive.google.com/file/d/15-5H22Lb25ReF3EJA7UObPD3c6Dzr83R/view?usp=sharing
   video:
   notes:
   readings:
@@ -594,7 +600,7 @@
   logistics:
 
 
-- date: W 12/03
+- date: W 04/22
   lecturer:
   title: >
     <strong>Course Review</strong>
@@ -605,40 +611,40 @@
   logistics: 
 
 
-- date: F 12/05
+- date: F 04/24
   lecturer:
   title:
   recitation: >
     <strong> Generative Models for RL </strong>
-  slides: https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
+  slides: #https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
   video:
   notes:
   readings:
   logistics:
 
 
-- date: M 12/08
-  lecturer:
-  quiz: >
-    <strong> Project Final Presentation, 8:30AM-11:30AM </strong>
-  # slides: 
-  notes: 
-  readings:
-  logistics: 
+# - date: M 12/08
+#   lecturer:
+#   quiz: >
+#     <strong> Project Final Presentation, 8:30AM-11:30AM </strong>
+#   # slides: 
+#   notes: 
+#   readings:
+#   logistics: 
 
-- date: H 12/11
-  lecturer:
-  quiz: >
-    <strong> Project Final Presentation, 10:00AM-1:00PM </strong>
-  # slides: 
-  notes: 
-  readings:
-  logistics:
+# - date: H 12/11
+#   lecturer:
+#   quiz: >
+#     <strong> Project Final Presentation, 10:00AM-1:00PM </strong>
+#   # slides: 
+#   notes: 
+#   readings:
+#   logistics:
 
-- date: F 12/12
-  lecturer:
-  quiz:
-  # slides: 
-  notes: 
-  readings:
-  logistics: <span class="deadline"> Project Final Report due </span> <br>
+# - date: F 12/12
+#   lecturer:
+#   quiz:
+#   # slides: 
+#   notes: 
+#   readings:
+#   logistics: <span class="deadline"> Project Final Report due </span> <br>
