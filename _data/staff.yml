@@ -21,6 +21,34 @@ EducationAssociates:
       image: staff/Joshmin.jpeg
 
 TAs:
+    - name: Kashu Yamazaki
+      email: kyamazak@andrew.cmu.edu
+      url: https://kashu7100.github.io/
+      office-hours: TBD #Mon, Fri 4-5PM
+      location: TBD #NSH 4604
+      image: staff/Kashu.png
+
+    - name: Yuxiao Qu
+      email: yuxiaoq@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: TBD
+      image: staff/generic.jpeg
+
+    - name: Grace Liu
+      email: gliu2@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: TBD
+      image: staff/generic.jpeg
+
+    - name: Abishek Anand
+      email: abisheka@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: TBD
+      image: staff/generic.jpeg
+    
     # - name: Douglas Chen
     #   email: dchen3@andrew.cmu.edu
     #   url: 
@@ -71,12 +99,6 @@ TAs:
     #   image: staff/Nidhi.jpeg
 
     
-    - name: Kashu Yamazaki
-      email: kyamazak@andrew.cmu.edu
-      url: https://kashu7100.github.io/
-      office-hours: TBD #Mon, Fri 4-5PM
-      location: TBD #NSH 4604
-      image: staff/Kashu.png
 
     # - name: Vansh Kapoor
     #   email: vanshk@andrew.cmu.edu
