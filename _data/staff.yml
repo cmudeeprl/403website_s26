@@ -45,9 +45,16 @@ TAs:
     - name: Abishek Anand
       email: abisheka@andrew.cmu.edu
       url: 
-      office-hours: TBD
+      office-hours: T Th 11:00 AM
       location: TBD
       image: staff/generic.jpeg
+    
+    # - name: Gene Yang
+    #   email: geney@andrew.cmu.edu
+    #   url: https://3n3g.github.io/
+    #   office-hours: #Mon 1-2PM, Thu 3-4PM
+    #   location: #GHC 8014
+    #   image: staff/Gene.jpg
     
     # - name: Douglas Chen
     #   email: dchen3@andrew.cmu.edu
@@ -63,12 +70,6 @@ TAs:
     #   location: GHC 8019
     #   image: staff/LJang.png
 
-    # - name: Gene Yang
-    #   email: geney@andrew.cmu.edu
-    #   url: https://3n3g.github.io/
-    #   office-hours: Mon 1-2PM, Thu 3-4PM
-    #   location: GHC 8014
-    #   image: staff/Gene.jpg
 
     # - name: Max Sobol Mark
     #   email: jsobolma@andrew.cmu.edu
