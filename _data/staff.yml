@@ -49,12 +49,12 @@ TAs:
       location: TBD
       image: staff/generic.jpeg
     
-    # - name: Gene Yang
-    #   email: geney@andrew.cmu.edu
-    #   url: https://3n3g.github.io/
-    #   office-hours: #Mon 1-2PM, Thu 3-4PM
-    #   location: #GHC 8014
-    #   image: staff/Gene.jpg
+    - name: Gene Yang
+      email: geney@andrew.cmu.edu
+      url: https://3n3g.github.io/
+      office-hours: W 2:00 PM #Mon 1-2PM, Thu 3-4PM
+      location: #GHC 8014
+      image: staff/Gene.jpg
     
     # - name: Douglas Chen
     #   email: dchen3@andrew.cmu.edu
