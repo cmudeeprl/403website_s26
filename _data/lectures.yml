@@ -22,6 +22,7 @@
   notes:
   readings:
      - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
+     - S&T ch3 ch4 5.1-5.4 5.7, 6.1-6.7
     #- Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
     #- (optional) Aleksandrs Slivkins <a href="https://arxiv.org/pdf/1904.07272">Introduction to Multi-Armed Bandits</a>
   logistics:
@@ -38,7 +39,8 @@
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1312.5602"> Playing Atari with Deep Reinforcement Learning </a>
     - Martin Riedmiller <a href="https://link.springer.com/chapter/10.1007/11564096_32"> Neural Fitted Q-Iteration </a>
-    - Fu et al. <a href="https://arxiv.org/abs/1902.10250"> Diagnosing Bottlenecks in Deep Q-learning Algorithms </a>
+    - S&T ch3 ch4 5.1-5.4 5.7, 6.1-6.7
+    # - Fu et al. <a href="https://arxiv.org/abs/1902.10250"> Diagnosing Bottlenecks in Deep Q-learning Algorithms </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     # - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">(optional) The Path perspective on Value Learning </a> (blogpost)
@@ -71,7 +73,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> Value-Based Methods and Actor-Critic Methods, & HW1 </strong>
+    <strong> Value-Based Methods & HW1 </strong>
   slides: #https://docs.google.com/presentation/d/1JLpRyM61YEP2XNwbdb1YL8j33wWdCgjpEHxOuLIRDIs/edit?usp=sharing
   slides2:
   notes: 
@@ -115,7 +117,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>MDPs, Policy Gradients, & HW2 </strong>
+    <strong>Policy Gradients & HW2 </strong>
   slides: #https://drive.google.com/file/d/1uP_ZkxWA3izMrfB9kTAQICeslAr4Qpoa/view?usp=sharing
   slides2:
   notes: 
