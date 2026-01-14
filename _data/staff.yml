@@ -42,12 +42,12 @@ TAs:
       location: TBD
       image: staff/Grace_Liu.jpg
 
-    # - name: Abishek Anand
-    #   email: abisheka@andrew.cmu.edu
-    #   url: 
-    #   office-hours: T Th 11:00 AM
-    #   location: TBD
-    #   image: staff/generic.jpeg
+    - name: Abishek Anand
+      email: abisheka@andrew.cmu.edu
+      url: 
+      office-hours: T Th 11:00 AM
+      location: TBD
+      image: staff/generic.jpeg
     
     - name: Gene Yang
       email: geney@andrew.cmu.edu
