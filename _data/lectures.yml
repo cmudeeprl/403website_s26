@@ -22,7 +22,7 @@
   notes:
   readings:
      - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
-     - S&T ch3 ch4 5.1-5.4 5.7, 6.1-6.7
+     - S&B ch3 ch4 5.1-5.4 5.7, 6.1-6.7
     #- Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
     #- (optional) Aleksandrs Slivkins <a href="https://arxiv.org/pdf/1904.07272">Introduction to Multi-Armed Bandits</a>
   logistics:
@@ -39,7 +39,7 @@
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1312.5602"> Playing Atari with Deep Reinforcement Learning </a>
     - Martin Riedmiller <a href="https://link.springer.com/chapter/10.1007/11564096_32"> Neural Fitted Q-Iteration </a>
-    - S&T ch3 ch4 5.1-5.4 5.7, 6.1-6.7
+    - S&B ch3 ch4 5.1-5.4 5.7, 6.1-6.7
     # - Fu et al. <a href="https://arxiv.org/abs/1902.10250"> Diagnosing Bottlenecks in Deep Q-learning Algorithms </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
