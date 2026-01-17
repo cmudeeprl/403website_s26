@@ -25,35 +25,35 @@ TAs:
       email: kyamazak@andrew.cmu.edu
       url: https://kashu7100.github.io/
       office-hours: TBD  #Mon, Fri 4-5PM
-      location: TBD #NSH 4604
+      location: NSH 4604
       image: staff/Kashu.png
 
     - name: Yuxiao Qu
       email: yuxiaoq@andrew.cmu.edu
       url: 
-      office-hours: W 3 - 4 PM, TBD
-      location: TBD
+      office-hours: T 2:00pm - 3:00pm, W 11:00am - 12:00pm
+      location: GHC 7107
       image: staff/Yuxiao_Qu.jpeg
 
     - name: Grace Liu
       email: gliu2@andrew.cmu.edu
       url: 
-      office-hours: Th 3:30 - 4:30 PM, F 11:30am - 12:30 PM
-      location: TBD
+      office-hours: Th 3:30pm - 4:30pm, F 11:30am - 12:30pm
+      location: GHC 8014
       image: staff/Grace_Liu.jpg
 
     - name: Abishek Anand
       email: abisheka@andrew.cmu.edu
       url: 
-      office-hours: T Th 11:00 AM
-      location: TBD
+      office-hours: T Th 11:00am - 12:00pm
+      location: GHC 8014
       image: staff/generic.jpeg
     
     - name: Gene Yang
       email: geney@andrew.cmu.edu
       url: https://3n3g.github.io/
-      office-hours: W 2:00 PM #Mon 1-2PM, Thu 3-4PM
-      location: #GHC 8014
+      office-hours: M W 2:00pm - 3:00pm
+      location: GHC 8014
       image: staff/Gene.jpg
     
     # - name: Douglas Chen
