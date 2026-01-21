@@ -58,7 +58,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, PyTorch, Gymnasium </strong>
+    <strong>Open AI Gym, PyTorch and DQN Details, & HW1 </strong>
   slides: #https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
   notes: #https://drive.google.com/file/d/1BX9zooXG8Z08HBOviS8mMzG7gFlIFvT_/view?usp=sharing
   video:
@@ -73,7 +73,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> Value-Based Methods & HW1 </strong>
+    <strong> Setup and Debugging OH (in class) </strong>
   slides: #https://docs.google.com/presentation/d/1JLpRyM61YEP2XNwbdb1YL8j33wWdCgjpEHxOuLIRDIs/edit?usp=sharing
   slides2:
   notes: 
