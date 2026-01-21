@@ -64,8 +64,8 @@
   video:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-    # - Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
-    - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
+    - Gym tutorial <a href="https://colab.research.google.com/drive/19oAAgYlNEeGwEX-0Czm5h4_aAXKe-Wzd?usp=sharing" target=  "_blank">notebook</a>
+    - PyTorch tutorial <a href="https://colab.research.google.com/drive/1VWmkq1hE7Ib8NR30RBaAA5jGVlE5EwBj?usp=sharing" target=  "_blank">notebook</a>
   logistics:
 
 
