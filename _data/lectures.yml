@@ -59,12 +59,12 @@
   title:
   recitation: >
     <strong>Open AI Gym, PyTorch and DQN Details, & HW1 </strong>
-  slides: #https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
+  slides: https://docs.google.com/presentation/d/1WK5BeMU2pSVZffoqaYsDCQUiuCmAil7G/edit?usp=sharing&ouid=117820938106761027125&rtpof=true&sd=true #https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
   notes: #https://drive.google.com/file/d/1BX9zooXG8Z08HBOviS8mMzG7gFlIFvT_/view?usp=sharing
   video:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-    - Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
+    # - Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
     - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
   logistics:
 
