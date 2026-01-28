@@ -85,7 +85,7 @@
 - date: M 01/26
   lecturer: 
   title: >
-    <strong>Value based methods (Cont.)</strong>
+    <strong>Value based methods (Cont.), Evolutionary Methods for Policy Search</strong>
   slides: https://www.dropbox.com/scl/fi/hjbwpxlg4dwvyeqddvc6i/evolutionarymethods_S26.pdf?rlkey=j4ng9hpjoaei243jd3flujf5x&dl=0 #https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1urLD6LkJVIGkgvSbBhURRTffsHo5V19n/view?usp=sharing
   video:
@@ -93,6 +93,8 @@
   readings:
     - <a href="https://arxiv.org/abs/1509.06461">Deep Reinforcement Learning with Double Q-learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
+    - Salimans et al. <a href="https://arxiv.org/pdf/1703.03864.pdf"> Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    - (optional) <a href="https://arxiv.org/pdf/1604.00772.pdf">Nikolaus Hansen. The CMA Evolution Strategy - A Tutorial</a>
     # - <a href="https://arxiv.org/abs/2403.03950">Stop Regressing - Training Value Functions via Classification for Scalable Deep RL</a>
     # - <a href="https://jmlr.org/papers/v15/dann14a.html">(optional) Policy Evaluation with Temporal Differences&#58; A Survey and Comparison</a>
     # - <a href="https://arxiv.org/abs/1707.06887">(optional) A Distributional Perspective on Reinforcement Learning</a>
@@ -103,12 +105,13 @@
   lecturer: 
   title: >
     <strong>Policy Gradient Methods </strong>
-  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides: https://www.dropbox.com/scl/fi/di1aewjd3cbowbf81m6j7/PG_S26.pdf?rlkey=lygw0veycev5sjopyda0ib521&dl=0 #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
   video:
   notes:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics: <span class="deadline">HW1 Due</span>, <span class="event">HW2 out </span> <br>
 
 
@@ -136,9 +139,6 @@
   video:
   notes:
   readings:
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Salimans et al. <a href="https://arxiv.org/pdf/1703.03864.pdf"> Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    - (optional) <a href="https://arxiv.org/pdf/1604.00772.pdf">Nikolaus Hansen. The CMA Evolution Strategy - A Tutorial</a>
   logistics: 
 
 
