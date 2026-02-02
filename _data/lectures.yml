@@ -133,9 +133,9 @@
 - date: M 02/02
   lecturer: 
   title: >
-    <strong>Actor-Critic Methods (cont.) Evolutionary Methods for Policy Search</strong>
-  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
-  slides2: #https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
+    <strong>How Far Can We Update a Policy? Step Size and Stability in On-Policy and Off-Policy Policy Gradients</strong>
+  slides: https://www.dropbox.com/scl/fi/di1aewjd3cbowbf81m6j7/PG_S26.pdf?rlkey=lygw0veycev5sjopyda0ib521&dl=0 #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides2: https://www.dropbox.com/scl/fi/7b4gxc8wnfbr8tcgr8di8/PG_PPO_S26.pdf?rlkey=qwpdl7lco2f6kay5ujterc70d&dl=0 #https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
   video:
   notes:
   readings:
