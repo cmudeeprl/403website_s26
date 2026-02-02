@@ -140,7 +140,7 @@
   notes:
   readings:
     - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
-    - <a href="https://arxiv.org/pdf/1602.01783"> A3C </a>
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics: 
 
 
