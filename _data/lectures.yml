@@ -148,9 +148,10 @@
 - date: W 02/04
   lecturer:
   title: >
-    <strong> Advanced Policy Gradient Methods </strong>
+    <strong> Step Size and Stability in Policy Gradients (cont.) </strong>
   recitation: 
-  slides: #https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
+  slides: https://www.dropbox.com/scl/fi/7b4gxc8wnfbr8tcgr8di8/PG_PPO_S26.pdf?rlkey=qwpdl7lco2f6kay5ujterc70d&dl=0 #https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
+  slides2: https://www.dropbox.com/scl/fi/wpnlysx27knjq5cwodx41/DDPG_S26.pdf?rlkey=kbzmvk2woc1numnu6ni3dgy99&dl=0
   video:
   notes:
   readings:
