@@ -182,13 +182,13 @@
 - date: M 02/09
   lecturer: 
   title: >
-    <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: #https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
+    <strong> Actor Critic with Pathwise Derivatives </strong>
+  slides: https://www.dropbox.com/scl/fi/jwd7f7ybf6b3zmiqpv5fi/DDPGTD3SAC_S26.pdf?rlkey=ncta837a3kge6tpweumi3u850&dl=0 #https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
   readings:
-    -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
     -  <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>    
+    -  <a href="https://arxiv.org/abs/1812.05905"> Soft Actor-Critic Algorithms and Applications </a> 
   video:
   logistics: 
 
