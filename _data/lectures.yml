@@ -192,16 +192,22 @@
   video:
   logistics: 
 
+- date: M 02/10
+  logistics: <span class="event">HW4 Out </span> <br>
 
 - date: W 02/11
   lecturer: 
   title: >
-    <strong> Advanced Policy Gradient Methods (Cont.) MaxEntropy RL</strong>
+    <strong> Imitation Learning, Behavior Cloning, GAIL </strong>
   slides: #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   slides3: #https://drive.google.com/file/d/11OwKFgE1ukdyxj7gVpGtmL6UhsUdsJmV/view?usp=sharing
   readings:
-    -  <a href="https://arxiv.org/abs/1812.05905"> Soft Actor-Critic Algorithms and Applications </a> 
+    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
+    - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
   video:
   logistics:
 
@@ -227,13 +233,8 @@
   video:
   notes:
   readings:
-    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
-    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
-    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-    - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
-    - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
     
-  logistics: <span class="event">HW3 Due </span>, <br> <span class="deadline">HW4 Out </span> <br>
+  logistics: <span class="deadline">HW3 Due </span>
 
 
 - date: W 02/18
@@ -277,6 +278,8 @@
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics: 
 
+- date: M 02/24
+  logistics: <span class="deadline">HW4 Due </span>, <br> <span class="event">HW5 Out </span>
 
 - date: W 02/25
   lecturer: 
@@ -317,7 +320,7 @@
   video: #https://drive.google.com/file/d/11PfJP0r8TRcSh6Jygm931v4RQ0Rnvvkc/view?usp=sharing
   notes:
   readings:
-  logistics: <span class="deadline">HW4 Due</span>, <span class="event">HW5 Out </span>
+  logistics: 
 
 # - date: S 10/12
 #   lecturer:
@@ -378,7 +381,7 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
  
-  logistics:  
+  logistics:  <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out </span>
 
 
 
@@ -446,7 +449,7 @@
   readings:
     - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out </span>
+  logistics: 
 
 - date: W 03/25
   lecturer:
@@ -457,7 +460,7 @@
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  logistics:
+  logistics: <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out </span>
    
 
 - date: F 03/27
@@ -527,7 +530,7 @@
     - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
     - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
     
-  logistics:  <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out </span>
+  logistics:  
   
   
 - date: W 04/08
@@ -537,7 +540,7 @@
   video:
   notes:
   readings:
-  logistics: 
+  logistics: <span class="deadline">HW7 Due</span>, <br> <span class="event">HW8 Out</span>
 
 - date: F 04/10
   lecturer:
@@ -595,7 +598,7 @@
    - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
 
-  logistics: <span class="deadline">HW7 Due</span>
+  logistics: 
 
 
 - date: W 04/22
@@ -606,7 +609,7 @@
   video:
   notes:
   readings:
-  logistics: 
+  logistics: <span class="deadline">HW8 Due</span>
 
 
 - date: F 04/24
