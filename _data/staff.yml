@@ -70,7 +70,6 @@ TAs:
     #   location: GHC 8019
     #   image: staff/LJang.png
 
-
     # - name: Max Sobol Mark
     #   email: jsobolma@andrew.cmu.edu
     #   url: https://maxsobolmark.com/
@@ -98,8 +97,6 @@ TAs:
     #   office-hours: Mon 5-6PM, Fri 2:30-3:30PM
     #   location: GHC 8014
     #   image: staff/Nidhi.jpeg
-
-    
 
     # - name: Vansh Kapoor
     #   email: vanshk@andrew.cmu.edu
