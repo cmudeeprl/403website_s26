@@ -231,12 +231,15 @@
 - date: M 02/16
   lecturer: 
   title: >
-    <strong>Imitation Learning</strong>
-  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
+    <strong>Generiative Models for Imitation Learning</strong>
+  slides: https://drive.google.com/file/d/1qV3JcUCY0gHd4Qr0oHTpusLoG4Mfh5zG/view?usp=drive_link #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
   video:
   notes:
   readings:
-    
+    - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
+    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
   logistics: <span class="deadline">HW3 Due </span>
 
 
@@ -248,8 +251,6 @@
   slides2:
   video:
   readings:
-    - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics: 
