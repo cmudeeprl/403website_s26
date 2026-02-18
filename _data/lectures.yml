@@ -111,7 +111,7 @@
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics: <span class="deadline">HW1 Due</span>, <span class="event">HW2 out </span> <br>
 
 
@@ -156,7 +156,7 @@
   notes:
   readings:
     - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
     # - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     # - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
@@ -201,7 +201,7 @@
 - date: W 02/11
   lecturer: 
   title: >
-    <strong> Imitation Learning, Behavior Cloning, GAIL </strong>
+    <strong> Imitation Learning, Behavior Cloning </strong>
   slides: https://www.dropbox.com/scl/fi/wewhd8kcjdf44tk9mtgpg/immitationlearning_S26.pdf?rlkey=nsv59jujqbbo413lyz0b6x1w3&dl=0 #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   slides3: #https://drive.google.com/file/d/11OwKFgE1ukdyxj7gVpGtmL6UhsUdsJmV/view?usp=sharing
@@ -231,13 +231,11 @@
 - date: M 02/16
   lecturer: 
   title: >
-    <strong>Generative Models for Imitation Learning</strong>
+    <strong>GAIL , Multi-goal RL and IL</strong>
   slides: https://www.dropbox.com/scl/fi/wewhd8kcjdf44tk9mtgpg/immitationlearning_S26.pdf?rlkey=nsv59jujqbbo413lyz0b6x1w3&dl=0 #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
   video:
   notes:
   readings:
-    - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
   logistics: <span class="deadline">HW3 Due </span>
@@ -246,11 +244,13 @@
 - date: W 02/18
   lecturer: 
   title: >
-     <strong>Imitation Learning(Cont.)</strong>
-  slides: #https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
+     <strong>Diffusion Models for Imitation Learning</strong>
+  slides: https://www.dropbox.com/scl/fi/mmfv06xf4qg7fcvdr5s17/Diffusion_policiesS26.pdf?rlkey=9hfi7mvz22v73na502zanrsgp&dl=0 #https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
   slides2:
   video:
   readings:
+    - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics: 
