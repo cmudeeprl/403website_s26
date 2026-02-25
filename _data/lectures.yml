@@ -293,13 +293,16 @@
 - date: W 02/25
   lecturer: 
   title: >
-    <strong>Model-based Methods(Cont.)</strong>
-  slides: #https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
+    <strong> "Learning and Search: MCTS, AlphaGo, AlphaZero" </strong>
+  slides: https://www.dropbox.com/scl/fi/8bn2r23v02xwyrmfup8ci/MBRL_TreeSearchS26.pdf?rlkey=inhpwgh1x09abvk7xt3v76jri&dl=0 #https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
   video:
   readings:
-    - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
-    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - Guo et al. <a href="https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    # - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
+    # - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
@@ -315,8 +318,6 @@
 #   video:
 #   notes:
 #   readings:
-#     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
-#     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
 #     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
 #   logistics: 
 
