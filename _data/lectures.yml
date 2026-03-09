@@ -300,10 +300,6 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - Guo et al. <a href="https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-    # - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
-    # - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics:  
@@ -362,18 +358,22 @@
 - date: M 03/09
   lecturer: 
   title: >
-    <strong>Offline RL</strong>
-  slides: #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
+    <strong>MBRL (cont.)</strong>
+  slides: https://www.dropbox.com/scl/fi/bvhiw92cy7vs43m6pgaye/MBRLexplicitS26.pdf?rlkey=ilzhzlagqttvxtdndj3m8qg0p&dl=0 #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
   video:
   notes:
   readings:
-    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
-    - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
-    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
-    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    # - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
+    # - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    # # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
+    # # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
  
 
@@ -381,7 +381,7 @@
 - date: W 03/11
   lecturer: 
   title: >
-    <strong>Offline RL (Cont.)</strong>
+    <strong>MBRL (cont.)</strong>
   slides: #https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
   video:
   notes:
