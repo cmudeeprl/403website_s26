@@ -432,7 +432,7 @@
   lecturer:
   title: >
     <strong>Guided Diffusion</strong>
-  slides: https://www.dropbox.com/scl/fi/4zmnessqh1om9lw4wn2t0/oflineRL_S26.pdf?rlkey=oiehxufvga9zmpak55bjqrrpn&dl=0 #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+  slides: https://www.dropbox.com/scl/fi/0kgwbxg12imfvut6du2ab/offlineRLS26_latest.pdf?rlkey=hsodt4gpi86sdrczaghffi4c4&dl=0 #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
   video:
   notes:
   readings:
@@ -473,14 +473,27 @@
   logistics: 
 
 - date: W 03/25
-  lecturer:
+  lecturer: 
   title: >
-    <strong>Sim2Real Learning</strong>
-  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+    <strong> Offline RL (Cont.) </strong>
+  slides: https://www.dropbox.com/scl/fi/0kgwbxg12imfvut6du2ab/offlineRLS26_latest.pdf?rlkey=hsodt4gpi86sdrczaghffi4c4&dl=0 #https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
+  slides2:
+  video:
+  notes:
   readings:
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Kostrikov et al. <a href="https://arxiv.org/pdf/2110.06169" target="_blank"> OFFLINE REINFORCEMENT LEARNING WITH IMPLICIT Q-LEARNING </a>
+    - Kumar et al. <a href="https://arxiv.org/pdf/2006.04779" target="_blank"> Conservative Q-Learning for Offline Reinforcement Learning </a>
+    - Fujimoto & Gu <a href="https://arxiv.org/pdf/2106.06860" target="_blank"> A Minimalist Approach to Offline Reinforcement Learning </a>
+    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321" target="_blank"> IRIS- Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data </a>
+    - Peng et al. <a href="https://arxiv.org/pdf/1910.00177" target="_blank"> ADVANTAGE-WEIGHTED REGRESSION- SIMPLE AND SCALABLE OFF-POLICY REINFORCEMENT LEARNING_3 </a>
+  # lecturer:
+  # title: >
+  #   <strong>Sim2Real Learning</strong>
+  # slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  # readings:
+  #   - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+  #   - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+  #   - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
   logistics: <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out </span>
    
 
