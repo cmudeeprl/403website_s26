@@ -479,11 +479,11 @@
   video:
   notes:
   readings:
-    - Kostrikov et al. <a href="https://arxiv.org/pdf/2110.06169" target="_blank"> OFFLINE REINFORCEMENT LEARNING WITH IMPLICIT Q-LEARNING </a>
+    - Kostrikov et al. <a href="https://arxiv.org/pdf/2110.06169" target="_blank"> Offline Reinforcement Learning with Implicit Q-Learning </a>
     - Kumar et al. <a href="https://arxiv.org/pdf/2006.04779" target="_blank"> Conservative Q-Learning for Offline Reinforcement Learning </a>
     - Fujimoto & Gu <a href="https://arxiv.org/pdf/2106.06860" target="_blank"> A Minimalist Approach to Offline Reinforcement Learning </a>
     - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321" target="_blank"> IRIS- Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data </a>
-    - Peng et al. <a href="https://arxiv.org/pdf/1910.00177" target="_blank"> ADVANTAGE-WEIGHTED REGRESSION- SIMPLE AND SCALABLE OFF-POLICY REINFORCEMENT LEARNING_3 </a>
+    - Peng et al. <a href="https://arxiv.org/pdf/1910.00177" target="_blank"> Advantage-Weighted Regression- Simple and Scalable Off-Policy Reinforcement Learning </a>
   # lecturer:
   # title: >
   #   <strong>Sim2Real Learning</strong>
@@ -510,7 +510,7 @@
 - date: M 03/30
   lecturer: 
   title: >
-    <strong> Intelligent exploration </strong>
+    <strong> Intelligent Exploration </strong>
   slides: https://www.dropbox.com/scl/fi/eweyiq62g7bwps8e0p8ra/deepexplorationS26.pdf?rlkey=o1t07ktoyvkub3w2feywtn6xc&dl=0 #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
   slides2: 
   video:
@@ -519,24 +519,24 @@
     - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore':' a New Approach for Hard-Exploration Problems</a>
-    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
 
   logistics: 
 
 - date: W 04/01
   lecturer: 
   title: >
-    <strong>RL with Foundation Models</strong>
+    <strong>Intelligent Exploration</strong>
   quiz: 
   slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
   video:
   notes:
   readings:
-    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
-    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore':' a New Approach for Hard-Exploration Problems</a>
+    # - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    # - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
+    # - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
     
   logistics:
 
@@ -557,13 +557,18 @@
 - date: M 04/06
   lecturer: 
   title: >
-    <strong>RL with Foundation Models (Cont.)</strong>
-  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
+    <strong> Sim2Real Learning </strong>
+  slides: https://www.dropbox.com/scl/fi/0zyzhp55j5wf3cuy8b4gc/sim2realS26.pdf?rlkey=pokgiyeb89h4jjmfjtkd4f05w&dl=0 #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
   notes:
   readings:
-    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
-    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Zhang et al. <a href="https://arxiv.org/abs/2509.13833" target="_blank"> Track Any Motions under Any Disturbances </a>
+    - Zhang et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank"> SFV':' Reinforcement Learning of Physical Skills from Videos </a>
+    # - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    # - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
+    # - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
     
   logistics:  
   
