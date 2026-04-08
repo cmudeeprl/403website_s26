@@ -575,11 +575,15 @@
   
 - date: W 04/08
   title: >
-    <strong>Foudation Models for RL</strong>
-  slides: #https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
+    <strong> Foundation Models for RL </strong>
+  slides: https://www.dropbox.com/scl/fi/iv7bb04xmdtl9jrc5hi3i/FoundationModelsforRLS26.pdf?rlkey=c3ogog0i4kz0oerv49jqpun58&dl=0 #https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
   video:
   notes:
   readings:
+    - Liang et al. <a href="https://arxiv.org/abs/2209.07753" target="_blank"> Code as Policies':' Language Model Programs for Embodied Control </a>
+    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596v6" target="_blank"> VLM Agents Generate Their Own Memories':' Distilling Experience into Embodied Programs of Thought </a>
+    - Katara et al. <a href="https://arxiv.org/abs/2310.18308" target="_blank"> Gen2Sim':' Scaling up Robot Learning in Simulation with Generative Models </a>
+    - Ma et al. <a href="https://arxiv.org/abs/2310.12931" target="_blank"> Eureka':' Human-Level Reward Design via Coding Large Language Models </a>
   logistics: <span class="deadline">HW7 Due</span>, <br> <span class="event">HW8 Out</span>
 
 - date: F 04/10
