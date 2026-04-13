@@ -600,11 +600,13 @@
   lecturer:
   title:
   recitation: >
-    <strong> RL with Foundation Models </strong>
-  slides: #https://docs.google.com/presentation/d/1W4b0PnRHpocI9sKcTW_6UN5_Z4puujRne9JxRakWgxE/edit?usp=sharing
+    <strong> RL for Foundation Models </strong>
+  slides: https://www.dropbox.com/scl/fi/0wx11q1r89lsxuodjpo2a/RLforFoundationModelsS26.pdf?rlkey=1b450mc23ex56s67mryj98e63&dl=0 #https://docs.google.com/presentation/d/1W4b0PnRHpocI9sKcTW_6UN5_Z4puujRne9JxRakWgxE/edit?usp=sharing
   video:
   notes:
   readings:
+    - Rafailov et al. <a href="https://arxiv.org/pdf/2305.18290" target="_blank"> Direct Preference Optimization':' Your Language Model is Secretly a Reward Model </a>
+    - Ouyang et al. <a href="https://arxiv.org/pdf/2203.02155" target="_blank"> Training language models to follow instructions with human feedback </a>
   logistics: 
 
 - date: W 04/15
