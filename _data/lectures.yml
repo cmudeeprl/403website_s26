@@ -588,9 +588,12 @@
 
 - date: F 04/10
   lecturer:
-  quiz: >
+  recitation: >
     <strong> Sim2Real & HW8 (Video Recitation) </strong>
+  slides: 
   video: https://drive.google.com/file/d/1cWXLIg5oqBUBRakwdP0i8dNqsSWMfJ9q/view?usp=drive_link
+  notes:
+  readings:
   logistics:
 
 - date: M 04/13
