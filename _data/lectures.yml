@@ -658,12 +658,22 @@
   lecturer:
   title: >
     <strong> Training Diffusion Models with RL </strong>
-  slides: 
+  slides: https://www.dropbox.com/scl/fi/v5dxzc4mgfjz047ifsoos/rldiffusionS26.pdf?rlkey=zjwc2w91ov5y3cxhbs8q4ojiw&dl=0
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW8 Due</span>
+  - Wagenmaker et al. <a href="https://arxiv.org/pdf/2506.15799" target="_blank"> Steering Your Diffusion Policy with Latent Space Reinforcement Learning </a>
+  - Ren et al. <a href="https://arxiv.org/pdf/2409.00588" target="_blank"> Diffusion Policy Policy Optimization </a>
+  - Black et al. <a href="https://arxiv.org/pdf/2305.13301" target="_blank"> Training Diffusion Models With Reinforcement Learning </a>
+  - Wang et al. <a href="https://arxiv.org/abs/2208.06193" target="_blank"> Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning </a>
+  logistics: 
 
+
+- date: Th 04/23
+  lecturer:
+  quiz: >
+    <strong> </strong>
+  logistics: <span class="deadline">HW8 Due</span>
 
 - date: F 04/24
   lecturer:
