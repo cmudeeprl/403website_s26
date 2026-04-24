@@ -681,12 +681,13 @@
   recitation: >
     <strong> Generative Models for RL & Final Review </strong>
   slides: https://drive.google.com/file/d/1wy5tZoz3mJ4lKtTfqI1fnbI_yGYy1yeD/view?usp=sharing #https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
-  slides2: https://docs.google.com/presentation/d/1c5rZ-JPfSpHjGMj5VOwMHOWmGIEeCGA5-aozo6RRe-I/edit?usp=sharing
+  slides2: 
   video:
   notes:
   readings:
-    - <a href="https://docs.google.com/presentation/d/1-624MSYO5382VwhEtl1By8EFT5h4AAsIAHGPokp5S_M/edit?usp=sharing" target="_blank"> slides 3 </a>
-    - <a href="https://drive.google.com/file/d/1OrAPqlK8Y3lqsnUlINppEhBKmOizVEjd/view?usp=sharing" target="_blank"> slides 4 </a>
+    - slides 2 <a href="https://docs.google.com/presentation/d/1c5rZ-JPfSpHjGMj5VOwMHOWmGIEeCGA5-aozo6RRe-I/edit?usp=sharing" target="_blank"> lectures 1 - 9 </a>
+    - slides 3 <a href="https://docs.google.com/presentation/d/1-624MSYO5382VwhEtl1By8EFT5h4AAsIAHGPokp5S_M/edit?usp=sharing" target="_blank"> lectures 10 - 18 </a>
+    - slides 4 <a href="https://drive.google.com/file/d/1OrAPqlK8Y3lqsnUlINppEhBKmOizVEjd/view?usp=sharing" target="_blank"> lectures 19 - 26 </a>
   logistics:
 
 
