@@ -518,7 +518,7 @@
   readings:
     - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore':' a New Approach for Hard-Exploration Problems</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore&#58; a New Approach for Hard-Exploration Problems</a>
 
   logistics: 
 
@@ -533,7 +533,7 @@
   readings:
     - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore':' a New Approach for Hard-Exploration Problems</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank"> Go-Explore&#58; a New Approach for Hard-Exploration Problems</a>
     # - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
     # - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
     # - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
@@ -565,7 +565,7 @@
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Zhang et al. <a href="https://arxiv.org/abs/2509.13833" target="_blank"> Track Any Motions under Any Disturbances </a>
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank"> SFV':' Reinforcement Learning of Physical Skills from Videos </a>
+    # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank"> SFV&#58; Reinforcement Learning of Physical Skills from Videos </a>
     # - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
     # - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
     # - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
@@ -580,10 +580,10 @@
   video:
   notes:
   readings:
-    - Liang et al. <a href="https://arxiv.org/abs/2209.07753" target="_blank"> Code as Policies':' Language Model Programs for Embodied Control </a>
-    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596v6" target="_blank"> VLM Agents Generate Their Own Memories':' Distilling Experience into Embodied Programs of Thought </a>
-    - Katara et al. <a href="https://arxiv.org/abs/2310.18308" target="_blank"> Gen2Sim':' Scaling up Robot Learning in Simulation with Generative Models </a>
-    - Ma et al. <a href="https://arxiv.org/abs/2310.12931" target="_blank"> Eureka':' Human-Level Reward Design via Coding Large Language Models </a>
+    - Liang et al. <a href="https://arxiv.org/abs/2209.07753" target="_blank"> Code as Policies&#58; Language Model Programs for Embodied Control </a>
+    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596v6" target="_blank"> VLM Agents Generate Their Own Memories&#58; Distilling Experience into Embodied Programs of Thought </a>
+    # - Katara et al. <a href="https://arxiv.org/abs/2310.18308" target="_blank"> Gen2Sim&#58; Scaling up Robot Learning in Simulation with Generative Models </a>
+    - Ma et al. <a href="https://arxiv.org/abs/2310.12931" target="_blank"> Eureka&#58; Human-Level Reward Design via Coding Large Language Models </a>
   logistics: <span class="deadline">HW7 Due</span>, <br> <span class="event">HW8 Out</span>
 
 - date: F 04/10
@@ -605,7 +605,7 @@
   video:
   notes:
   readings:
-    - Rafailov et al. <a href="https://arxiv.org/pdf/2305.18290" target="_blank"> Direct Preference Optimization':' Your Language Model is Secretly a Reward Model </a>
+    - Rafailov et al. <a href="https://arxiv.org/pdf/2305.18290" target="_blank"> Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model </a>
     - Ouyang et al. <a href="https://arxiv.org/pdf/2203.02155" target="_blank"> Training language models to follow instructions with human feedback </a>
   logistics: 
 
